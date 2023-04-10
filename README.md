@@ -10,5 +10,3 @@
     Feel free to visit my website <a href="https://jameskokoska.github.io/">here</a> and explore my GitHub projects! 
 </p>
 
-
-![](https://hit.yhype.me/github/profile?user_id=50821962)
