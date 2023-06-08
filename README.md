@@ -9,3 +9,4 @@
 <p>
     Feel free to visit my website <a href="https://jameskokoska.github.io/">here</a> and explore my GitHub projects! 
 </p>
+
